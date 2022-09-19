@@ -1,0 +1,113 @@
+a{
+    text-decoration: none;
+    color: #fff;
+}
+p{
+    font-size: 18px;
+}
+img{
+    width: 70%;
+}
+h1{
+    font-size: 50px;
+}
+
+/* Header Section */
+
+.header{
+    background: #101446;
+    padding: 10px 0;
+}
+.logo img{
+    width: 100px;
+}
+.menu ul{
+    margin-bottom: 0;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    display: block;
+    padding: 15px;
+}
+
+/* Banner Section */
+
+.banner{
+    background-image: url(https://i.postimg.cc/L5S8NFHQ/intro-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    padding: 300px 0;
+}
+.banner p{
+    margin:40px 0;
+    display: inline-block;
+}
+.txt a{
+    padding: 10px 30px;
+    background: #327AB7;
+    border-radius: 8px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+/* Our Teem Section */
+
+.teem{
+    background: #BAC1F3;
+    margin-top: -10px;
+    padding: 100px 0;
+}
+.teem p{
+    padding: 0 30px;
+}
+.teem a{
+    background: #337AB7;
+    padding: 8px 20px;
+    border-radius: 8px;
+}
+
+/* About Us Section */
+
+.about{
+    padding: 100px 0;
+    background: #C2D4EA;
+}
+.about h1{
+    margin-bottom: 30px;
+}
+.left p{
+    margin-left: 25px;
+    text-align: left;
+}
+.right{
+    margin-left: 50px;
+}
+.right span{
+    font-size: 22px;
+}
+
+/* Contact Us Section */
+
+.contact{
+    background: #F5F5F5;
+    padding: 100px 0;
+}
+.contact h1{
+    margin-bottom: 40px;
+}
+.contact-form p{
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+/* Footer Section */
+
+.footer p{
+    margin-bottom: 0;
+    padding: 30px 0;
+}
+.footer span{
+    font-weight: bold;
+}
